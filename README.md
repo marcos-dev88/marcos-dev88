@@ -22,7 +22,7 @@ Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a>
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&color=orange)](https://aws.amazon.com/)
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/getting-started/)
 
-## 🎯 Focusing on / Interests:
+## 🎯 Focusing On / Interests:
 - Clean Code
 - TDD
 - Unit Tests
