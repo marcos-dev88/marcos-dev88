@@ -5,10 +5,7 @@ Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a>
 
 
 <br>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-dev88&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 👨‍💻 Tech Stack:
 
