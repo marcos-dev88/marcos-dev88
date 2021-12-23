@@ -29,6 +29,10 @@ Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a>
 - Microservices
 - Web Development
 
+##
+<div>
   
-![snake gif](https://github.com/marcos-dev88/marcos-dev88/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/marcos-dev88/marcos-dev88/blob/output/github-contribution-grid-snake.gif)
+
+</div>
 
