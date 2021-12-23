@@ -30,5 +30,7 @@ Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a>
 - Web Development
 
 <div>
+  
   ![Snake animation](https://github.com/marcos-dev88/marcos-dev88/blob/output/github-contribution-grid-snake.gif)
+
 </div>
