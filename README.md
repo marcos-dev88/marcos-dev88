@@ -5,7 +5,7 @@ Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a>
 
 
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-dev88&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-dev88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ## 👨‍💻 Tech Stack:
 
@@ -19,7 +19,7 @@ Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a>
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&color=orange)](https://aws.amazon.com/)
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/getting-started/)
 <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-dev88&layout=compact&theme=nightowl&langs_count=10)](https://github.com/marcos-dev88/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-dev88&layout=compact&theme=algolia&langs_count=10)](https://github.com/marcos-dev88/github-readme-stats)
 
 ## 🎯 Focusing On / Interests:
 - Clean Code
