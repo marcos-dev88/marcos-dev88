@@ -1,4 +1,11 @@
-# Hi there! I'm Marcos 🖖
+<div style="margin-right: 30px;">
+ <h1>
+   Hi there! I'm Marcos 
+  <img src="https://user-images.githubusercontent.com/43271729/149676616-121996b6-c370-4619-bcc5-3c72f8eec999.png" width="28px" height="28px"> <img src="https://user-images.githubusercontent.com/43271729/149677034-77f68c7d-9dff-4462-9d99-eec4055afc77.png" width="34px" height="34px">
+
+ </h1>
+</div>
+
 Software Backend Developer. <br>
 
 Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a> 
