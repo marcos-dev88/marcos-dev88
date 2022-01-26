@@ -20,6 +20,7 @@ Working at <a href="https://www.hostgator.com.br">HostGator LATAM</a>
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Docker](https://img.shields.io/badge/Docker-00ADD8?style=flat&logo=Docker&logoColor=white&color=blue)](https://hub.docker.com/)
 [![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)](https://pt.wikipedia.org/wiki/Shell_script)
+[![Redis](https://img.shields.io/badge/Redis-d00011?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white&color=gray)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
