@@ -1,7 +1,8 @@
 <div style="margin-right: 30px;">
  <h1>
-   Hi there! I'm Marcos 
-  <img src="https://user-images.githubusercontent.com/43271729/149676616-121996b6-c370-4619-bcc5-3c72f8eec999.png" width="28px" height="28px"> <img src="https://user-images.githubusercontent.com/43271729/149677034-77f68c7d-9dff-4462-9d99-eec4055afc77.png" width="34px" height="34px">
+   Sup! I'm Marcos! 
+  <!-- Image by tuxornot. OG img -> https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126 -->
+  <img src="../marcos-dev88/img/tux-linux-penguin.gif" width="70px" height="70px">
 
  </h1>
 </div>
@@ -39,8 +40,5 @@ Working at <a href="https://www.engdb.com.br/">Engineering do Brasil</a>
 
 ##
 <div>
-  
- ![Snake animation](https://github.com/marcos-dev88/marcos-dev88/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
