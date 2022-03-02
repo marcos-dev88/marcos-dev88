@@ -2,7 +2,7 @@
  <h1>
    Sup! I'm Marcos! 
   <!-- Image by tuxornot. OG img -> https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126 -->
-  <img src="../marcos-dev88/img/tux-linux-penguin.gif" width="70px" height="70px">
+  <img src="./img/tux-linux-penguin.gif" width="70px" height="70px">
 
  </h1>
 </div>
