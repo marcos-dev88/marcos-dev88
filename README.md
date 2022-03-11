@@ -28,7 +28,7 @@ Working at <a href="https://www.engdb.com.br/">Engineering do Brasil</a>
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&color=orange)](https://aws.amazon.com/)
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/getting-started/)
 <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-dev88&layout=compact&theme=algolia&langs_count=10)](https://github.com/marcos-dev88/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-dev88&layout=compact&theme=algolia&langs_count=10&hide=html,css)](https://github.com/marcos-dev88/github-readme-stats)
 
 ## 🎯 Focusing On / Interests:
 - Clean Code
