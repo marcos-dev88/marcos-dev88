@@ -13,7 +13,7 @@ Working at <a href="https://www.engdb.com.br/">Engineering do Brasil</a>
 
 
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-dev88&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-dev88&show_icons=true&theme=algolia&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true"/>
 
 ## 👨‍💻 Tech Stack:
 
