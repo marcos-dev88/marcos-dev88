@@ -18,6 +18,7 @@ Working at <a href="https://www.engdb.com.br/">Engineering do Brasil</a>
 ## 👨‍💻 Tech Stack:
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-0D4580?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-00ADD8?style=flat&logo=Docker&logoColor=white&color=blue)](https://hub.docker.com/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&color=orange)](https://aws.amazon.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-323330?style=flat&logo=mysql&logoColor=white&color=gray)](https://www.mysql.com/)
